@@ -3,7 +3,7 @@
     "featured-navigation": {
       "type": "featured-navigation",
       "settings": {
-        "menu": "",
+        "menu": "main-menu",
         "show_title": false,
         "text_size_mobile": "text-lg",
         "text_size_desktop": "default",
