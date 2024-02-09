@@ -3,7 +3,7 @@
     "featured-navigation": {
       "type": "featured-navigation",
       "settings": {
-        "menu": "popular-treatments",
+        "menu": "",
         "show_title": false,
         "text_size_mobile": "text-lg",
         "text_size_desktop": "default",
@@ -26,7 +26,6 @@
         "speed": 280,
         "direction": "",
         "color_scheme": "primary",
-        "image": "shopify:\/\/shop_images\/AeRSkinLab-ColourBar-Animation_333f2a09-9c9d-4668-b8d5-84ba8209d346.gif",
         "color_gradient_left": "#dce7ff",
         "color_gradient_center": "#ebefdd",
         "color_gradient_right": "#e3d9f2"
@@ -51,7 +50,6 @@
         "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/dcc4f3abaf404213bb6abb49fa4dcc36.mp4",
         "video_style": "four-three",
         "video_style_desktop": "widescreen",
-        "fallback_image": "shopify:\/\/shop_images\/AER-891-RGB-LowRes-1800x800_0f849144-4e48-470a-a086-0340a233c0bd.jpg",
         "title": "PRECISION INJECTIONS, THREADLIFTS, THE LATEST IN LASER TECHNOLOGY AND BODY SCULPTING <br>",
         "heading_size": "text-2xl lg:text-3xl",
         "text": "",
@@ -72,7 +70,6 @@
           "settings": {
             "show_image": true,
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/AER-207-RGB-LowRes-800x800_aac59842-01df-487e-ab89-f412214d470f.jpg",
             "subtitle": "",
             "title": "01",
             "text": "<p>Experience our thoughtfully designed flagship location at 1540 West 2nd Avenue executed by award winning architects Leckie Studio. Enter AE.R’s immersive world with a space encapsulating the ideals of AE.R curated with raw and natural materials connected by an expansive sculpture of light. Designed to evoke wonder, calmness and to instil our values that everything is considered to <em><strong>Re:form your skin<\/strong><\/em>. <\/p><p>Proudly featured in <a href=\"https:\/\/www.wallpaper.com\/architecture\/aer-dermatology-clinic-leckie-studio-vancouver-canada\" target=\"_blank\" title=\"https:\/\/www.wallpaper.com\/architecture\/aer-dermatology-clinic-leckie-studio-vancouver-canada\">Wallpaper* Magazine<\/a> | <a href=\"https:\/\/www.dezeen.com\/2022\/07\/04\/aer-skinlab-vancouver-leckie-studio-interiors\/\" title=\"https:\/\/www.dezeen.com\/2022\/07\/04\/aer-skinlab-vancouver-leckie-studio-interiors\/\">Dezeen<\/a> | <a href=\"https:\/\/www.frameweb.com\/article\/institutions\/leckie-studio-treats-stone-as-a-biophilic-element-for-a-down-to-earth-dermatology-clinic\" title=\"https:\/\/www.frameweb.com\/article\/institutions\/leckie-studio-treats-stone-as-a-biophilic-element-for-a-down-to-earth-dermatology-clinic\">FRAMƎ <\/a><\/p>",
@@ -86,7 +83,6 @@
           "settings": {
             "show_image": true,
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/AER-891-RGB-LowRes-800x800.jpg",
             "subtitle": "",
             "title": "02",
             "text": "<p>Dr. Charles Scudamore and the team at AE.R Skinlab will expertly consult your goals and desires with a clear vision. Whether it may be: <a href=\"\/products\/botox\" title=\"BOTOX® COSMETIC\"><strong>BOTOX® Cosmetic<\/strong><\/a>, JUVÉDERM®, Restylane® and Perlane®, SCULPTRA®, Teosyal®, Ultherapy®, <a href=\"\/products\/coolsculpting®\" title=\"Coolsculpting®\"><strong>Coolsculpting®<\/strong><\/a>, <a href=\"\/products\/trusculpt®-flex-plus\" title=\"truSculpt® FLEX PLUS\"><strong>truSculpt® FLEX PLUS<\/strong><\/a>, <a href=\"\/products\/trusculpt®-id\" title=\"truSculpt® ID\"><strong>truSculpt® ID<\/strong><\/a>, <a href=\"\/products\/thermage®\" title=\"Thermage®\"><strong>Thermage®<\/strong><\/a>, or our various other technologies, AE.R Skinlab will tailor an approach specifically for you.<\/p>",
@@ -100,7 +96,6 @@
           "settings": {
             "show_image": true,
             "reverse": false,
-            "image": "shopify:\/\/shop_images\/AER-146-RGB-LowRes-800x800_facc9094-8251-4b76-bc48-601592a9994f.jpg",
             "subtitle": "",
             "title": "03",
             "text": "<p>Consider our specially designed AE.R Skin product line with natural ingredients sourced from Canada & South Korea. Our comprehensive range features the finest quality raw materials and is formulated and manufactured in our hometown of beautiful Vancouver, British Columbia.<\/p>",
@@ -161,7 +156,6 @@
     },
     "16397644074f0c5c21": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "indent_image": false,
         "height": "natural",
@@ -184,7 +178,6 @@
     },
     "165054910258cd0a24": {
       "type": "testimonials",
-      "disabled": true,
       "blocks": {
         "1650549102bf1f2ea2-0": {
           "type": "testimonial",
@@ -206,13 +199,30 @@
             "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
             "source": "Source"
           }
+        },
+        "testimonial_hNCCrn": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
+            "source": "Source"
+          }
+        },
+        "testimonial_YcXwtJ": {
+          "type": "testimonial",
+          "settings": {
+            "quote": "<p>A quote from a customer or staff member can help show of your products' unique selling points.<\/p>",
+            "source": "Source"
+          }
         }
       },
       "block_order": [
         "1650549102bf1f2ea2-0",
         "1650549102bf1f2ea2-1",
-        "1650549102bf1f2ea2-2"
+        "1650549102bf1f2ea2-2",
+        "testimonial_hNCCrn",
+        "testimonial_YcXwtJ"
       ],
+      "disabled": true,
       "settings": {
         "heading": "What our customers say",
         "text_style": "body",
@@ -224,7 +234,6 @@
     "16397645084060bcb2": {
       "type": "image-with-text",
       "settings": {
-        "image": "shopify:\/\/shop_images\/AER-592-RGB-LowRes-1800x800_80738b82-213f-4136-aa6c-5e3a2969e32a.jpg",
         "image_position": "right",
         "image_size": "two_thirds",
         "indent_image": false,
