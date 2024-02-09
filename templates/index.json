@@ -29,9 +29,9 @@
             "content_position": "justify-center items-center text-center",
             "content_width_desktop": "lg:w-2\/3",
             "text_color": "white",
-            "cta_link": "",
-            "cta_text": "",
-            "cta_style": "link"
+            "cta_link": "shopify:\/\/collections\/nos-desserts",
+            "cta_text": "Magasiner",
+            "cta_style": "button"
           }
         }
       },
@@ -40,8 +40,8 @@
       ],
       "settings": {
         "color_scheme": "primary",
-        "height": "natural",
-        "heading_size": "text-2xl lg:text-5xl",
+        "height": "full_screen",
+        "heading_size": "text-2xl lg:text-6xl",
         "auto_rotate": false,
         "slide_speed": "5000"
       }
