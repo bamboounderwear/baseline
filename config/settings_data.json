@@ -15,11 +15,11 @@
     "color_tertiary_meta": "#000000",
     "button_color": "transparent_background_text_border",
     "button_style": "square",
-    "base_font_size": 14,
-    "font_heading": "abril_fatface_n4",
-    "heading_uppercase": true,
+    "base_font_size": 16,
+    "font_heading": "dm_sans_n5",
+    "heading_uppercase": false,
     "heading_underline": false,
-    "heading_letterspacing": 25,
+    "heading_letterspacing": 0,
     "base_heading_size": "text-xl",
     "template_heading_size": "text-2xl lg:text-3xl",
     "secondary_heading_size": "text-base",
@@ -90,7 +90,6 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/AER-SKINLAB-Logo-White-RGB-Wide_46e71af9-3800-4ce5-a894-11eb5c49073e.png",
           "logo_max_width": 170,
           "menu": "main-menu",
           "layout": "logo_left_menu_left",
@@ -146,7 +145,6 @@
           "newsletter_section_title": "Subscribe To Receive Special Offers",
           "newsletter_subheading": "",
           "newsletter_color_scheme": "tertiary",
-          "image": "shopify:\/\/shop_images\/AeRSkinLab-ColourBar-Animation_333f2a09-9c9d-4668-b8d5-84ba8209d346.gif",
           "color_gradient_left": "#dce7ff",
           "color_gradient_center": "#ebefdd",
           "color_gradient_right": "#e3d9f2",
@@ -173,14 +171,9 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Bold": {
