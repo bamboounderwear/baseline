@@ -90,9 +90,10 @@
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/LOGO-MDES-01_2_53000798-617e-461f-85f2-1bf861b04afd.png",
           "logo_max_width": 170,
           "menu": "main-menu",
-          "layout": "logo_left_menu_left",
+          "layout": "logo_center_menu_left",
           "dropdown_text_align": "left",
           "show_all_navigation_links": false,
           "show_search": true,
