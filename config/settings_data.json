@@ -101,7 +101,7 @@
           "show_icons": false,
           "custom_link_text": "Book a Consult",
           "custom_link": "https:\/\/aerskinlab.janeapp.com\/",
-          "color_scheme": "secondary",
+          "color_scheme": "primary",
           "overlay_homepage": false,
           "overlay_text_color": "black"
         }
