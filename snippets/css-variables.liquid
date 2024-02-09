@@ -240,8 +240,8 @@
     endif 
   -%}
       
-  {%- capture body_font_stack -%}"Apercu Mono Pro", {{ body_font.family }}, {{ body_font.fallback_families }}{%- endcapture -%}
-  {%- capture heading_font_stack -%}"Tenso", {{ heading_font.family }}, {{ heading_font.fallback_families }}{%- endcapture -%}
+  {%- capture body_font_stack -%}{{ body_font.family }}, {{ body_font.fallback_families }}{%- endcapture -%}
+  {%- capture heading_font_stack -%}{{ heading_font.family }}, {{ heading_font.fallback_families }}{%- endcapture -%}
 
   {% if settings.heading_uppercase -%}
     {%- capture heading_capitalize -%}uppercase{%- endcapture -%}
